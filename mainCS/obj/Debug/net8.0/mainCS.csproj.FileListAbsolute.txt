@@ -1,0 +1,14 @@
+E:\C#Fundamentals\Reflections\mainCS\bin\Debug\net8.0\mainCS.exe
+E:\C#Fundamentals\Reflections\mainCS\bin\Debug\net8.0\mainCS.deps.json
+E:\C#Fundamentals\Reflections\mainCS\bin\Debug\net8.0\mainCS.runtimeconfig.json
+E:\C#Fundamentals\Reflections\mainCS\bin\Debug\net8.0\mainCS.dll
+E:\C#Fundamentals\Reflections\mainCS\bin\Debug\net8.0\mainCS.pdb
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\mainCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\mainCS.AssemblyInfoInputs.cache
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\mainCS.AssemblyInfo.cs
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\mainCS.csproj.CoreCompileInputs.cache
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\mainCS.dll
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\refint\mainCS.dll
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\mainCS.pdb
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\mainCS.genruntimeconfig.cache
+E:\C#Fundamentals\Reflections\mainCS\obj\Debug\net8.0\ref\mainCS.dll

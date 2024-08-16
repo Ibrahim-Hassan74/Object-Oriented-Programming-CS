@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#Fundamentals\\Reflections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615367AD-AFCC-45C8-8CD5-888A0FCCF41C}|mainCS\\mainCS.csproj|e:\\c#fundamentals\\reflections\\maincs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615367AD-AFCC-45C8-8CD5-888A0FCCF41C}|mainCS\\mainCS.csproj|solutionrelative:maincs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615367AD-AFCC-45C8-8CD5-888A0FCCF41C}|mainCS\\mainCS.csproj|e:\\c#fundamentals\\reflections\\maincs\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615367AD-AFCC-45C8-8CD5-888A0FCCF41C}|mainCS\\mainCS.csproj|solutionrelative:maincs\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 413,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\C#Fundamentals\\Reflections\\mainCS\\BankAccount.cs",
+              "RelativeDocumentMoniker": "mainCS\\BankAccount.cs",
+              "ToolTip": "E:\\C#Fundamentals\\Reflections\\mainCS\\BankAccount.cs",
+              "RelativeToolTip": "mainCS\\BankAccount.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBsAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:45:28.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#Fundamentals\\Reflections\\mainCS\\Program.cs",
+              "RelativeDocumentMoniker": "mainCS\\Program.cs",
+              "ToolTip": "E:\\C#Fundamentals\\Reflections\\mainCS\\Program.cs",
+              "RelativeToolTip": "mainCS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:37:49.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 658,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
